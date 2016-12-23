@@ -1,4 +1,4 @@
-# cpp_swiss_army_knife
+# CPP Swiss Armyknife
 A collection of nice and tiny C++ libraries.
 The main focus is speed, few or no dependencies and header only when possible.
 
@@ -6,7 +6,8 @@ The main focus is speed, few or no dependencies and header only when possible.
 | library                                                      | description
 | -----------------------------------------------------------  | -----------
 | [dbgtools](https://github.com/wc-duck/dbgtools)              | Assert, backtrace, callstack
-| [Boost::Stacktrace](https://github.com/apolukhin/stacktrace) | callstack visualization
+| [Boost::Stacktrace](https://github.com/apolukhin/stacktrace) | Stacktrace visualization
+| [backward-cpp](https://github.com/bombela/backward-cpp)      | Stacktrace visualization
 
 ## Compression
 | library                                                 | description
