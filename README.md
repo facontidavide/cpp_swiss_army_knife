@@ -28,10 +28,13 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [Remotery](https://github.com/Celtoys/Remotery)         | Intrusive profiling
 
-## Type system
+## Wrappers and Containers
 | library                                                 | description
 | ------------------------------------------------------  | -----------
 | [Type safe](https://github.com/foonathan/type_safe)     | Wrappers for type safety
+| [Any](https://github.com/thelink2012/any)               | Any with small object optimization
+| [SSO-23](https://github.com/elliotgoodrich/SSO-23)      | String with small object optimization
+| [PLF Colony](https://github.com/mattreecebentley/plf_colony)  | Cache friendly container with fst insertion and remove.
 
 ## Unit Testing
 | library                                                 | description
