@@ -3,9 +3,10 @@ A collection of nice and tiny C++ libraries.
 The main focus is speed, few or no dependencies and header only when possible.
 
 ## Debug
-| library                                                 | description
-| ------------------------------------------------------  | -----------
-| [dbgtools](https://github.com/wc-duck/dbgtools)         | Assert, backtrace, callstack
+| library                                                      | description
+| -----------------------------------------------------------  | -----------
+| [dbgtools](https://github.com/wc-duck/dbgtools)              | Assert, backtrace, callstack
+| [Boost::Stacktrace](https://github.com/apolukhin/stacktrace) | callstack visualization
 
 ## Compression
 | library                                                 | description
@@ -17,10 +18,20 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [spdlog](https://github.com/gabime/spdlog)              | Fast logging library
 
+## Memory
+| library                                                 | description
+| ------------------------------------------------------  | -----------
+| [Memory](https://github.com/foonathan/memory)           | STL compatible allocator
+
 ## Profiling
 | library                                                 | description
 | ------------------------------------------------------  | -----------
 | [Remotery](https://github.com/Celtoys/Remotery)         | Intrusive profiling
+
+## Type system
+| library                                                 | description
+| ------------------------------------------------------  | -----------
+| [Type safe](https://github.com/foonathan/type_safe)     | Wrappers for type safety
 
 ## Unit Testing
 | library                                                 | description
