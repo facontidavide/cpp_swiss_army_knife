@@ -28,6 +28,7 @@ The main focus is speed, few or no dependencies and header only when possible.
 | library                                                 | description
 | ------------------------------------------------------  | -----------
 | [Remotery](https://github.com/Celtoys/Remotery)         | Intrusive profiling
+| [EasyProfiler](https://github.com/yse/easy_profiler)    | Another intrusive profiler
 
 ## Wrappers and Containers
 | library                                                 | description
