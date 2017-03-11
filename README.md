@@ -45,6 +45,7 @@ The main focus is speed, few or no dependencies and header only when possible.
 | [Any](https://github.com/thelink2012/any)               | Any with small object optimization
 | [SSO-23](https://github.com/elliotgoodrich/SSO-23)      | String with small object optimization
 | [PLF Colony](https://github.com/mattreecebentley/plf_colony)  | Cache friendly container with fast insertion and remove.
+| [Sparcepp](https://github.com/greg7mdp/sparsepp)        | Hash map alternative
 
 ## Unit Testing
 | library                                                 | description
