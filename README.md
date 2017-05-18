@@ -12,6 +12,7 @@ The main focus is speed, few or no dependencies and header only when possible.
 | library                                                           | description
 | ------------------------------------------------------            | -----------
 | [concurrentqueue](https://github.com/cameron314/concurrentqueue)  | Concurrent lock-free queue
+| [Thread Pool](https://github.com/leohotfn/Reuzel)                 | Simple thread Pool
 
 
 ## Debug
