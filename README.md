@@ -33,6 +33,12 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [Memory](https://github.com/foonathan/memory)           | STL compatible allocator
 
+## Parser
+| library                                                 | description
+| ------------------------------------------------------  | -----------
+| [sajson](https://github.com/chadaustin/sajson)          | Header only JSON parser (c++11)
+
+
 ## Profiling
 | library                                                 | description
 | ------------------------------------------------------  | -----------
