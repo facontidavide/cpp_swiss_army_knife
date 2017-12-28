@@ -62,4 +62,11 @@ The main focus is speed, few or no dependencies and header only when possible.
 ## State Machine
 | library                                                 | description
 | ------------------------------------------------------  | -----------
-| [Boost::SML](https://github.com/boost-experimental/sml) |  C++14 State Machine Library      
+| [Boost::SML](https://github.com/boost-experimental/sml) |  C++14 State Machine Library   
+
+## Task Scheuler
+| library                                                 | description
+| ------------------------------------------------------  | -----------
+| [enkiTS](https://github.com/dougbinks/enkiTS/tree/C++11) |  Task Scheduler
+| [px_sched](https://github.com/pplux/px_sched) |  Single header Task Scheduler
+| [STLab](https://github.com/stlab/libraries) |  std::future done right
