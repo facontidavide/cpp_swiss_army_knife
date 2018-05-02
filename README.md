@@ -14,6 +14,11 @@ The main focus is speed, few or no dependencies and header only when possible.
 | [concurrentqueue](https://github.com/cameron314/concurrentqueue)  | Concurrent lock-free queue
 | [Thread Pool](https://github.com/leohotfn/Reuzel)                 | Simple thread Pool
 
+## Data structures
+| library                                                      | description
+| -----------------------------------------------------------  | -----------
+| [Rea](https://github.com/im95able/Rea)                       | SlotsLists
+
 
 ## Debug
 | library                                                      | description
@@ -21,6 +26,7 @@ The main focus is speed, few or no dependencies and header only when possible.
 | [dbgtools](https://github.com/wc-duck/dbgtools)              | Assert, backtrace, callstack
 | [Boost::Stacktrace](https://github.com/apolukhin/stacktrace) | Stacktrace visualization
 | [backward-cpp](https://github.com/bombela/backward-cpp)      | Stacktrace visualization
+
 
 ## Logging
 | library                                                 | description
