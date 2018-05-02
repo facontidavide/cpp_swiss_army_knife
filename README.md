@@ -18,7 +18,8 @@ The main focus is speed, few or no dependencies and header only when possible.
 | library                                                      | description
 | -----------------------------------------------------------  | -----------
 | [Rea](https://github.com/im95able/Rea)                       | SlotsLists
-
+| [PLF Colony](https://github.com/mattreecebentley/plf_colony) | Cache friendly container with fast insertion and remove.
+| [Sparcepp](https://github.com/greg7mdp/sparsepp)             | Hash map alternative
 
 ## Debug
 | library                                                      | description
@@ -39,6 +40,15 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [Memory](https://github.com/foonathan/memory)           | STL compatible allocator
 
+## Miscellaneus
+| library                                                 | description
+| ------------------------------------------------------  | -----------
+| [Type safe](https://github.com/foonathan/type_safe)     | Wrappers for type safety
+| [Any](https://github.com/thelink2012/any)               | Any with small object optimization
+| [SSO-23](https://github.com/elliotgoodrich/SSO-23)      | String with small object optimization
+| [Observable]https://github.com/ddinu/observable)        | observable Pattern (Signal-Slot)
+
+
 ## Parser
 | library                                                 | description
 | ------------------------------------------------------  | -----------
@@ -50,15 +60,6 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [Remotery](https://github.com/Celtoys/Remotery)         | Intrusive profiling
 | [EasyProfiler](https://github.com/yse/easy_profiler)    | Another intrusive profiler
-
-## Wrappers and Containers
-| library                                                 | description
-| ------------------------------------------------------  | -----------
-| [Type safe](https://github.com/foonathan/type_safe)     | Wrappers for type safety
-| [Any](https://github.com/thelink2012/any)               | Any with small object optimization
-| [SSO-23](https://github.com/elliotgoodrich/SSO-23)      | String with small object optimization
-| [PLF Colony](https://github.com/mattreecebentley/plf_colony)  | Cache friendly container with fast insertion and remove.
-| [Sparcepp](https://github.com/greg7mdp/sparsepp)        | Hash map alternative
 
 ## Unit Testing
 | library                                                 | description
