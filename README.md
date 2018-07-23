@@ -47,6 +47,7 @@ The main focus is speed, few or no dependencies and header only when possible.
 | [Any](https://github.com/thelink2012/any)               | Any with small object optimization
 | [SSO-23](https://github.com/elliotgoodrich/SSO-23)      | String with small object optimization
 | [Observable]https://github.com/ddinu/observable)        | observable Pattern (Signal-Slot)
+| [Constexpr](https://github.com/elbeno/constexpr)        | Many common functions implemented as constexpr
 
 
 ## Parser
