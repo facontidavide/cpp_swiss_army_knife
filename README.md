@@ -2,6 +2,11 @@
 A collection of nice and tiny C++ libraries.
 The main focus is speed, few or no dependencies and header only when possible.
 
+## Algorithms
+| library                                                 | description
+| ------------------------------------------------------  | -----------
+| [pdqsort](https://github.com/orlp/pdqsort)              | std::sort replacement
+
 
 ## Compression
 | library                                                 | description
@@ -46,7 +51,8 @@ The main focus is speed, few or no dependencies and header only when possible.
 | [Type safe](https://github.com/foonathan/type_safe)     | Wrappers for type safety
 | [Any](https://github.com/thelink2012/any)               | Any with small object optimization
 | [SSO-23](https://github.com/elliotgoodrich/SSO-23)      | String with small object optimization
-| [Observable]https://github.com/ddinu/observable)        | observable Pattern (Signal-Slot)
+| [Observable](https://github.com/ddinu/observable)       | observable Pattern (Signal-Slot)
+| [NanoRange](https://github.com/tcbrindle/NanoRange=     | Like Range-V3...
 | [Constexpr](https://github.com/elbeno/constexpr)        | Many common functions implemented as constexpr
 
 
@@ -72,7 +78,7 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [Boost::SML](https://github.com/boost-experimental/sml) |  C++14 State Machine Library   
 
-## Task Scheuler
+## Task Scheduler
 | library                                                 | description
 | ------------------------------------------------------  | -----------
 | [enkiTS](https://github.com/dougbinks/enkiTS/tree/C++11) |  Task Scheduler
