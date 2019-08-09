@@ -39,6 +39,11 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [spdlog](https://github.com/gabime/spdlog)              | Fast logging library
 
+## Math
+| library                                                 | description
+| ------------------------------------------------------  | -----------
+| [FastTrigo](https://github.com/divideconcept/FastTrigo) | Fast trigonometric functions
+
 
 ## Memory
 | library                                                 | description
