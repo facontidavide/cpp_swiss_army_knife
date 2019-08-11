@@ -90,4 +90,4 @@ The main focus is speed, few or no dependencies and header only when possible.
 | [enkiTS](https://github.com/dougbinks/enkiTS/tree/C++11) |  Task Scheduler
 | [px_sched](https://github.com/pplux/px_sched)            |  Single header Task Scheduler
 | [STLab](https://github.com/stlab/libraries)              |  std::future done right
-| [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow       | Task based parallelism
+| [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)  | Task based parallelism
