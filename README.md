@@ -84,10 +84,11 @@ The main focus is speed, few or no dependencies and header only when possible.
 | ------------------------------------------------------  | -----------
 | [Boost::SML](https://github.com/boost-experimental/sml) |  C++14 State Machine Library   
 
-## Task Scheduler
+## Task Scheduler / multi-threading
 | library                                                  | description
 | ------------------------------------------------------   | -----------
 | [enkiTS](https://github.com/dougbinks/enkiTS/tree/C++11) |  Task Scheduler
 | [px_sched](https://github.com/pplux/px_sched)            |  Single header Task Scheduler
 | [STLab](https://github.com/stlab/libraries)              |  std::future done right
 | [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)  | Task based parallelism
+| [marl](https://github.com/google/marl) | Scheduler with thread and fivers
